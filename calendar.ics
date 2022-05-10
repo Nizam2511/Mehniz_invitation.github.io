@@ -3,74 +3,52 @@ PRODID:-//Google Inc//Google Calendar 70.9054//EN
 VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Akad dan Walimah
-X-WR-TIMEZONE:Asia/Jakarta
-X-WR-CALDESC:Akad Nikah dan Walimatul 'Ursy\nRayhan Yulanda & Maulidan Nash
- uha
+X-WR-CALNAME:Nizam Weds Meharaj
+X-WR-TIMEZONE:Asia/Kolkata
+X-WR-CALDESC:Nizam Weds Meharaj 
 BEGIN:VEVENT
-DTSTART:20220520T020000Z
-DTEND:20220520T030000Z
-DTSTAMP:20220316T201356Z
-ORGANIZER;CN=Akad dan Walimah:mailto:p68227rf4u2tqb5orkf10m3u44@group.calen
- dar.google.com
-UID:5m3ca0jounu3mnnof0v5qi9b6e@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
- ulidannashuha@gmail.com;X-NUM-GUESTS=0:mailto:maulidannashuha@gmail.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=rayhan
- yulanda@gmail.com;X-NUM-GUESTS=0:mailto:rayhanyulanda@gmail.com
-X-GOOGLE-CONFERENCE:https://meet.google.com/sey-bzwd-coz
-CLASS:PUBLIC
-CREATED:20211120T164101Z
-DESCRIPTION:<html-blob><b>Bismillahirrahmanirrahim</b><br>Kami mengundang B
- apak/Ibu/Saudara/i untuk hadir di acara pernikahan kami. InsyaAllah akan di
- adakan di<br><br>Akad Nikah : Mesjid Keuchik Leumik\, 20 Mei 2022 - 09:00.<
- br>Walimatul 'Ursy : Amel Convention Hall\, 21 Mei 2022 - 10:00.<br><br>Sel
- engkapnya :&nbsp\;<a href="https://s.id/rehan-maulid" id="ow573" __is_owner
- ="true">https://s.id/rehan-maulid</a><br><br>Regards\,<br><u>Rehan dan Maul
- idan</u></html-blob>\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
- :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the descr
- iption.\n\nThis event has a video call.\nJoin: https://meet.google.com/sey-
- bzwd-coz\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
- :~:~:~:~:~:~:~::~:~::-
-LAST-MODIFIED:20220316T201156Z
-LOCATION:Masjid Haji Keuchik Leumiek\, Lamseupeung\, Kec. Lueng Bata\, Kota
-  Banda Aceh\, Aceh 23127\, Indonesia
+DTSTART:20220522T050000Z
+DTEND:20220522T060000Z
+DTSTAMP:20220510T095522Z
+UID:1hnk5fico3uh1ge68oh91n48av@google.com
+CREATED:20220510T095439Z
+DESCRIPTION:<pre dir="ltr">We invite you to attend our Nikkah. Insha allah 
+ it will be held in</pre><pre>M.V.R Thirumana Mandapam\,Rajaram Nagar\, Gand
+ hi Stadium Road \, Salem - 636007</pre><pre dir="ltr"><br></pre>
+LAST-MODIFIED:20220510T095439Z
+LOCATION:MVR Mahal\, 23\, Omalur Main Rd\, Arthanari Nagar\, Sankar Nagar\,
+  Salem\, Tamil Nadu 636016\, India
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Akad Nikah Rehan dan Maulidan
+SUMMARY:Nizam weds Meharaj - Nikkah
 TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20220521T030000Z
-DTEND:20220521T070000Z
-DTSTAMP:20220316T201356Z
-ORGANIZER;CN=Akad dan Walimah:mailto:p68227rf4u2tqb5orkf10m3u44@group.calen
- dar.google.com
-UID:01sscn507drh3vuf423pi7s9g0@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=ma
- ulidannashuha@gmail.com;X-NUM-GUESTS=0:mailto:maulidannashuha@gmail.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=rayhan
- yulanda@gmail.com;X-NUM-GUESTS=0:mailto:rayhanyulanda@gmail.com
-X-GOOGLE-CONFERENCE:https://meet.google.com/sey-bzwd-coz
-CLASS:PUBLIC
-CREATED:20211120T164336Z
-DESCRIPTION:<html-blob><b>Bismillahirrahmanirrahim</b><br>Kami mengundang B
- apak/Ibu/Saudara/i untuk hadir di acara pernikahan kami. InsyaAllah akan di
- adakan di<br><br>Akad Nikah : Mesjid Keuchik Leumik\, 20 Mei 2022 - 09:00.<
- br>Walimatul 'Ursy : Amel Convention Hall\, 21 Mei 2022 - 10:00.<br><br>Sel
- engkapnya :&nbsp\;<a href="https://s.id/rehan-maulid" id="ow994" __is_owner
- ="true">https://s.id/rehan-maulid</a><br><br>Regards\,<br><u>Rehan dan Maul
- idan</u></html-blob>\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
- :~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the descr
- iption.\n\nThis event has a video call.\nJoin: https://meet.google.com/sey-
- bzwd-coz\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
- :~:~:~:~:~:~:~::~:~::-
-LAST-MODIFIED:20220316T201316Z
-LOCATION:Masjid Haji Keuchik Leumiek\, Lamseupeung\, Kec. Lueng Bata\, Kota
-  Banda Aceh\, Aceh 23127\, Indonesia
+DTSTART:20220524T073000Z
+DTEND:20220524T083000Z
+DTSTAMP:20220510T095522Z
+UID:2qb5onrtcjqo2a528mftrvioer@google.com
+CREATED:20220510T095505Z
+DESCRIPTION:<pre dir="ltr"><b><i>We invite you to attend our Walima . Insha
+  allah it will be held in</i></b></pre><pre><b><i>M.V.R Thirumana Mandapam\
+ ,Rajaram Nagar\, Gandhi Stadium Road \, Salem - 636007</i></b></pre><pre di
+ r="ltr"><br></pre><pre><br></pre>
+LAST-MODIFIED:20220510T095505Z
+LOCATION:MVR Mahal\, 23\, Omalur Main Rd\, Arthanari Nagar\, Sankar Nagar\,
+  Salem\, Tamil Nadu 636016\, India
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Walimatul 'Ursy Rehan dan Maulidan
+SUMMARY:Nizam Weds Meharaj - Walima
 TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
 END:VEVENT
 END:VCALENDAR
